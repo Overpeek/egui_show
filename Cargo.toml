@@ -1,0 +1,2 @@
+[workspace]
+members = ["egui_show", "egui_show_derive"]
